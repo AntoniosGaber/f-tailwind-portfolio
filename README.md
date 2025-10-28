@@ -1,12 +1,47 @@
-# React + Vite
+# 🌟 Antonios Gaber  (React + Tailwind + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website — a modern, fully responsive web app built using **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo  
+🔗 [https://f-tailwind-portfolio.vercel.app](https://f-tailwind-portfolio.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧰 Technologies Used
+- ⚛️ React JS (Hooks, Components, Props, State)
+- ⚡ Vite (Fast Development Build Tool)
+- 🎨 Tailwind CSS
+- 🅱️ Bootstrap 5
+- 🌐 Responsive Design (Flexbox, Grid, Media Queries)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💻 About the Project
+This website was created to present my **skills as a Front-End Developer**,  
+including sections such as **Home**, **About**, **Portfolio**, and **Contact**.
+
+I designed it to be **modern, fast, and mobile-friendly**, with clean UI and smooth animations.
+
+---
+
+## 📂 Folder Structure
+
+---
+
+## 📬 Contact Me
+**Antonios Gaber**  
+📍 Lörrach, Germany  
+📧 [LinkedIn Profile](https://www.linkedin.com/in/antonios-gaber/)  
+🌍 [Portfolio](https://f-tailwind-portfolio.vercel.app)
+
+---
+
+## 💡 Future Improvements
+- Add project filtering by category  
+- Add dark/light mode toggle  
+- Integrate backend for contact form
+
+---
+
+### 🗣 Languages
+🇬🇧 English | 🇩🇪 Deutsch | 🇪🇬 Arabic
