@@ -1,0 +1,55 @@
+
+@import "tailwindcss";
+
+
+
+
+
+
+.star::after{ 
+    content: ""; 
+    position: absolute; 
+    width: 100px; 
+    height: 4px; 
+    background-color: white; 
+    top : 50% ; 
+    transform: translateX(30%);
+
+
+} 
+.star::before{ 
+    content: ""; 
+    position: absolute; 
+    width: 100px; 
+    height: 4px; 
+    background-color: white; 
+    top : 50% ; 
+    transform: translateX(-130%);
+
+
+} 
+
+.star2::after{ 
+    content: ""; 
+    position: absolute; 
+    width: 100px; 
+    height: 4px; 
+    background-color:black; 
+    top : 50% ; 
+    transform: translateX(30%);
+
+
+} 
+.star2::before{ 
+    content: ""; 
+    position: absolute; 
+    width: 100px; 
+    height: 4px; 
+    background-color: black; 
+    top : 50% ; 
+    transform: translateX(-130%);
+
+
+} 
+
+
