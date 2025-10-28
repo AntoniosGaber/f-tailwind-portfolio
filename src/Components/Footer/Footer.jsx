@@ -29,7 +29,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://www.facebook.com/tony.gaber"
+            href="https://www.facebook.com/tony.atta.3958"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Facebook"
